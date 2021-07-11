@@ -1,14 +1,10 @@
-com/unknown/api/ApiApplication.java
- com.unknown.api.ApiApplication
+com/unknown/api/dto/UserDto.java
+ com.unknown.api.dto.UserDto
 com/unknown/api/entity/UserEntity.java
  com.unknown.api.entity.UserEntity
 com/unknown/api/repository/UserRepository.java
  com.unknown.api.repository.UserRepository
-com/unknown/api/config/SecurityConfig.java
- com.unknown.api.config.SecurityConfig
-com/unknown/api/dto/RootDto.java
- com.unknown.api.dto.RootDto
-com/unknown/api/dto/UserDto.java
- com.unknown.api.dto.UserDto
+com/unknown/api/ApiApplication.java
+ com.unknown.api.ApiApplication
 com/unknown/api/controller/UserController.java
  com.unknown.api.controller.UserController
